@@ -79,6 +79,7 @@ This \(a\) is for **950nm wavelength**.
 8. Compare attenuation values for 660nm and 950nm.  
 
 ---
+
 ## MEASUREMENT OF BENDING LOSSES
 1. Remove fiber from SFH450V (950nm) & SFH350V.  
 2. Insert 1m fiber between **SFH756V (660nm)** & **SFH350V**.  
@@ -88,8 +89,8 @@ This \(a\) is for **950nm wavelength**.
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
 ---
-## TABULATION
 
+## TABULATION
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7be51d14-dcb2-4708-8a94-e27e31e8b2f2" />
 
 ---
