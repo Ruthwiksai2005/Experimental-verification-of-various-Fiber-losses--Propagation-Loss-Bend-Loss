@@ -5,7 +5,6 @@
 To measure propagation loss & bending losses for two different wavelengths in plastic Fiber provided with the kit.
 
 ---
-
 ## EQUIPMENTS REQUIRED
 - Link-B Kit with power supply  
 - Patch chords  
@@ -14,7 +13,6 @@ To measure propagation loss & bending losses for two different wavelengths in pl
 - 1 Meter Fiber Cable  
 
 ---
-
 ## THEORY
 Optical Fibers are available in different varieties of materials. These materials are usually selected by taking into account their absorption characteristics for different wavelengths of light.  
 
@@ -31,7 +29,6 @@ Since the signal in Optical Fiber is transmitted in the form of light (different
   - Other losses occur due to coupling at LED and photo detector ends.  
 
 ---
-
 ## PROCEDURE
 
 1. Connect the power supply with proper polarity to the kit link-B and switch it on.  
@@ -63,7 +60,6 @@ Where:
 This \(a\) is for **660nm wavelength**.  
 
 ---
-
 ### For 950nm Wavelength
 1. Set switch **SW9 → TX2 position**.  
 2. Set Jumper **JP7 → +12V position**.  
@@ -76,12 +72,10 @@ This \(a\) is for **660nm wavelength**.
 **Formula:**  
 <img width="758" height="50" alt="image" src="https://github.com/user-attachments/assets/56fbe9d6-9bff-460b-b04b-d2a73d0c3cd1" />
 
-
 This \(a\) is for **950nm wavelength**.  
 8. Compare attenuation values for 660nm and 950nm.  
 
 ---
-
 ## MEASUREMENT OF BENDING LOSSES
 1. Remove fiber from SFH450V (950nm) & SFH350V.  
 2. Insert 1m fiber between **SFH756V (660nm)** & **SFH350V**.  
@@ -91,21 +85,11 @@ This \(a\) is for **950nm wavelength**.
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
 ---
-
 ## TABULATION
 
-### Propagation Loss
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|----------------------|-----------------------|
-|              |                      |                       |
-
-### Bending Loss
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------|-----------------------|
-|                  |                      |                       |
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7be51d14-dcb2-4708-8a94-e27e31e8b2f2" />
 
 ---
-
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
 - Attenuation values compared and bending loss characteristics plotted.  
