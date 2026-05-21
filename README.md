@@ -5,6 +5,7 @@
 To measure propagation loss & bending losses for two different wavelengths in plastic Fiber provided with the kit.
 
 ---
+
 ## EQUIPMENTS REQUIRED
 - Link-B Kit with power supply  
 - Patch chords  
@@ -13,6 +14,7 @@ To measure propagation loss & bending losses for two different wavelengths in pl
 - 1 Meter Fiber Cable  
 
 ---
+
 ## THEORY
 Optical Fibers are available in different varieties of materials. These materials are usually selected by taking into account their absorption characteristics for different wavelengths of light.  
 
@@ -29,6 +31,7 @@ Since the signal in Optical Fiber is transmitted in the form of light (different
   - Other losses occur due to coupling at LED and photo detector ends.  
 
 ---
+
 ## PROCEDURE
 
 1. Connect the power supply with proper polarity to the kit link-B and switch it on.  
